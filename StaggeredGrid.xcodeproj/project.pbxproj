@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		48682D28293B91BB00EF15CE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		489A739228788B9C002A5E60 /* StaggeredGrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StaggeredGrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		489A739528788B9C002A5E60 /* StaggeredGridApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaggeredGridApp.swift; sourceTree = "<group>"; };
 		489A739728788B9C002A5E60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		489A738928788B9C002A5E60 = {
 			isa = PBXGroup;
 			children = (
+				48682D28293B91BB00EF15CE /* README.md */,
 				489A739428788B9C002A5E60 /* StaggeredGrid */,
 				489A739328788B9C002A5E60 /* Products */,
 			);
